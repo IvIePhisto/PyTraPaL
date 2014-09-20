@@ -1,0 +1,2 @@
+.. automodule:: pytrapal
+    :no-members:
